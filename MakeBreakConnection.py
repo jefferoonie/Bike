@@ -1,3 +1,6 @@
+# Testing out making, and breaking a connection, on GPIO.
+# Testing for possible reed switch usage.
+
 import RPi.GPIO as GPIO 
 
 GPIO.setmode(GPIO.BCM) 
