@@ -1,5 +1,7 @@
 # Testing out making, and breaking a connection, on GPIO.
 # Testing for possible reed switch usage.
+# - Connect GPIO to ground = "Closed"
+# - Disconnected GPIO from ground = "Open"
 
 import RPi.GPIO as GPIO 
 
